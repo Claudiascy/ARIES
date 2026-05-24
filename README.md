@@ -1,4 +1,4 @@
-# ARIES - Archivo de Inventarios ESpañoles
+# ARIES - ARchivo de Inventarios ESpañoles
 
 Plataforma para la recuperación, indexación y consulta del patrimonio documental de los siglos XVI y XVII, originalmente recopilado por Anastasio Rojo Vega.
 
