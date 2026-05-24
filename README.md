@@ -14,8 +14,8 @@ Para replicar esta infraestructura en un entorno limpio de Oracle Cloud, siga es
 
 ### 1. Preparación del Backend (Base de Datos)
 1. Acceda a su instancia de Oracle Autonomous Database a través de **SQL Workshop** en APEX o mediante **Oracle SQL Developer**.
-2. Ejecute el script `/database/01_schema_tables.sql` para levantar la estructura relacional de las 8 tablas en 3FN.
-3. Ejecute el script `/database/02_search_view.sql` para compilar la vista `ARTICULOS_SEARCH_V`.
+2. Ejecute el script `/database/Tablas.sql` para levantar la estructura relacional de las 10 tablas en 3FN.
+3. Ejecute el script `/database/Vistas.sql` para compilar la vista `ARTICULOS_SEARCH_V` y `ARTICULOS_EXACTA_V`
 
 ### 2. Importación del Frontend (Aplicación Web)
 1. Inicie sesión en su Workspace de Oracle APEX.
