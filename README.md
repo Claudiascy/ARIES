@@ -2,6 +2,8 @@
 
 Plataforma para la recuperación, indexación y consulta del patrimonio documental de los siglos XVI y XVII, originalmente recopilado por Anastasio Rojo Vega.
 
+Link de acceso https://g9a3a93d5adcf67-testdatabase1.adb.eu-madrid-1.oraclecloudapps.com/ords/r/tfg/aries/home?session=306112938261044
+
 ## Arquitectura y Tecnologías
 * **Infraestructura Cloud:** Oracle Cloud Infrastructure (OCI) - Always Free.
 * **Motor de Base de Datos:** Oracle Autonomous Database 23ai (Autonomous Transaction Processing).
